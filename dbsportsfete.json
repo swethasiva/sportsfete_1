@@ -1,0 +1,290 @@
+{
+	"departments": {
+		"CSE": {
+			 "tag" : "cse"
+		},
+		"ECE": {
+			"tag" : "ece"
+					},
+		"EEE": {
+			"tag" : "eee"
+		},
+
+		"CIVIL": {
+			"tag" : "eee"
+		}
+	},
+
+	"events": {
+		"BADMINTON (MIXED) 1": {
+			"day": 1,
+			"venue": "BADMINTON COURT-1",
+			"name" :"BADMINTON (MIXED)",
+			"fixture": "MATCH-1",
+			"round": "PRELIMS",
+			"dept1": "PROD",
+			"dept2": "ECE",
+			"start_time": "2017-12-17 16:00:00",
+			"status": "yet-to-start | ongoing | completed",
+			"dept1_score": "N/A",
+			"dept2_score": "N/A",
+			"winner": "WINNER OF MATCH-1"
+		},
+				"BADMINTON (MIXED) 2": {
+			"day": 1,
+			"venue": "BADMINTON COURT-1",
+				"name" :"BADMINTON (MIXED)",
+			"fixture": "MATCH-2",
+			"round": "PRELIMS",
+			"dept1": "MCA",
+			"dept2": "CSE",
+			"start_time": "2017-12-17 16:00:00",
+			"status": "yet-to-start | ongoing | completed",
+			"dept1_score": "N/A",
+			"dept2_score": "N/A",
+			"winner": "WINNER OF MATCH-2"
+		},
+				"BADMINTON (MIXED) 3": {
+			"day": 1,
+			"venue": "BADMINTON COURT-1",
+			"fixture": "MATCH-3",
+			"round": "PRELIMS",
+				"name" :"BADMINTON (MIXED)",
+			"dept1": "PHD",
+			"dept2": "CHEM",
+			"start_time": "2017-12-17 16:00:00",
+			"status": "yet-to-start | ongoing | completed",
+			"dept1_score": "N/A",
+			"dept2_score": "N/A",
+			"winner": "WINNER OF MATCH-3"
+		},
+				"BADMINTON (MIXED) 4": {
+			"day": 1,
+			"venue": "BADMINTON COURT-1",
+			"fixture": "MATCH-4",
+			 	"name" :"BADMINTON (MIXED)",
+			"round": "PRELIMS",
+			"dept1": "META",
+			"dept2": "CIVIL",
+			"start_time": "2017-12-17 16:00:00",
+			"status": "yet-to-start | ongoing | completed",
+			"dept1_score": "N/A",
+			"dept2_score": "N/A",
+			"winner": "WINNER OF MATCH-4"
+		},
+						"BADMINTON (MIXED) 5": {
+			"day": 1,
+			"venue": "BADMINTON COURT-1",
+			"fixture": "MATCH-5",
+			"round": "PRELIMS",
+				"name" :"BADMINTON (MIXED)",
+			"dept1": "MECH",
+			"dept2": "MTECH",
+			"start_time": "2017-12-17 16:00:00",
+			"status": "yet-to-start | ongoing | completed",
+			"dept1_score": "N/A",
+			"dept2_score": "N/A",
+			"winner": "WINNER OF MATCH-5"
+		},
+						"BADMINTON (MIXED) 6": {
+			"day": 1,
+			"venue": "BADMINTON COURT-1",
+			"fixture": "MATCH-6",
+				"name" :"BADMINTON (MIXED)",
+			"round": "PRELIMS",
+			"dept1": "ARCHI",
+			"dept2": "DOMS",
+			"start_time": "2017-12-17 16:00:00",
+			"status": "yet-to-start | ongoing | completed",
+			"dept1_score": "N/A",
+			"dept2_score": "N/A",
+			"winner": "WINNER OF MATCH-6"
+		},
+						"BADMINTON (MIXED) 7": {
+			"day": 1,
+			"venue": "BADMINTON COURT-1",
+		 	"name" :"BADMINTON (MIXED)",
+			"fixture": "MATCH-7",
+			"round": "PRELIMS",
+			"dept1": "EEE",
+			"dept2": "WINNER OF MATCH-1",
+			"start_time": "2017-12-17 16:00:00",
+			"status": "yet-to-start | ongoing | completed",
+			"dept1_score": "N/A",
+			"dept2_score": "N/A",
+			"winner": "WINNER OF MATCH-7"
+		},
+						"BADMINTON (MIXED) 8": {
+			"day": 1,
+			"venue": "BADMINTON COURT-1",
+			"fixture": "MATCH-8",
+				"name" :"BADMINTON (MIXED)",
+			"round": "PRELIMS",
+			"dept1": "WINNER OF MATCH-2",
+			"dept2": "WINNER OF MATCH-3",
+			"start_time": "2017-12-17 16:00:00",
+			"status": "yet-to-start | ongoing | completed",
+			"dept1_score": "N/A",
+			"dept2_score": "N/A",
+			"winner": "WINNER OF MATCH-8"
+		},
+						"BADMINTON (MIXED) 9": {
+			"day": 1,
+			"venue": "BADMINTON COURT-1",
+			"fixture": "MATCH-9",
+			"round": "PRELIMS",
+				"name" :"BADMINTON (MIXED)",
+			"dept1": "WINNER OF MATCH-4",
+			"dept2": "WINNER OF MATCH-5",
+			"start_time": "2017-12-17 16:00:00",
+			"status": "yet-to-start | ongoing | completed",
+			"dept1_score": "N/A",
+			"dept2_score": "N/A",
+			"winner": "WINNER OF MATCH-9"
+		},
+						"BADMINTON (MIXED) 10": {
+			"day": 1,
+			"venue": "BADMINTON COURT-1",
+			"fixture": "MATCH-10",
+				"name" :"BADMINTON (MIXED)",
+			"round": "PRELIMS",
+			"dept1": "WINNER OF MATCH-6",
+			"dept2": "ICE",
+			"start_time": "2017-12-17 16:00:00",
+			"status": "yet-to-start | ongoing | completed",
+			"dept1_score": "N/A",
+			"dept2_score": "N/A",
+			"winner": "WINNER OF MATCH-10"
+		},
+						"BADMINTON (MIXED) 11": {
+			"day": 1,
+			"venue": "BADMINTON COURT-1",
+			"fixture": "MATCH-11",
+			"round": "PRELIMS",
+				"name" :"BADMINTON (MIXED)",
+			"dept1": "WINNER OF MATCH-7",
+			"dept2": "WINNER OF MATCH-8",
+			"start_time": "2017-12-17 16:00:00",
+			"status": "yet-to-start | ongoing | completed",
+			"dept1_score": "N/A",
+			"dept2_score": "N/A",
+			"winner": "WINNER OF MATCH-11"
+		},
+						"BADMINTON (MIXED) 12": {
+			"day": 1,
+			"venue": "BADMINTON COURT-1",
+			"fixture": "MATCH-12",
+				"name" :"BADMINTON (MIXED)",
+			"round": "PRELIMS",
+			"dept1": "WINNER OF MATCH-9",
+			"dept2": "WINNER OF MATCH-10",
+			"start_time": "2017-12-17 16:00:00",
+			"status": "yet-to-start | ongoing | completed",
+			"dept1_score": "N/A",
+			"dept2_score": "N/A",
+			"winner": "WINNER OF MATCH-12"
+		},
+		"BADMINTON (MIXED)": {
+			"day": 1,
+			"venue": "BADMINTON COURT-1",
+			"fixture": "MATCH-13",
+				"name" :"BADMINTON (MIXED)",
+			"round": "FINALS",
+			"dept1": "CSE",
+			"dept2": "EEE",
+			"start_time": "2017-12-17 16:00:00",
+			"status": "yet-to-start | ongoing | completed",
+			"dept1_score": "N/A",
+			"dept2_score": "N/A",
+			"winner": "CSE"
+		},
+
+		"BADMINTON (BOYS)": {
+			"day": 1,
+			"venue": "BADMINTON COURT-1",
+			"fixture": "MATCH-13",
+			"round": "PRELIMS",
+			"dept1": "CSE",
+			"dept2": "EEE",
+			"start_time": "2017-12-17 16:00:00",
+			"status": "yet-to-start | ongoing | completed",
+			"dept1_score": "N/A",
+			"dept2_score": "N/A",
+			"winner": "EEE"
+		},
+		"FOOTBALL (BOYS)": {
+			"day": 1,
+			"venue": "FOOTBALL COURT-1",
+			"name" : "FOOTBALL (BOYS)",
+			"fixture": "MATCH-13",
+			"round": "FINALS",
+			"dept1": "CSE",
+			"dept2": "EEE",
+			"start_time": "2017-12-17 16:00:00",
+			"status": "yet-to-start | ongoing | completed",
+			"dept1_score": "N/A",
+			"dept2_score": "N/A",
+			"winner": "(either dept1 or dept2 or draw..)"
+		}
+	},
+
+	"sports": {
+		"BADMINTON (BOYS)": {
+			"points": [25, 18, 12],
+			"rules": "markdown rules here !!",
+			"first_place": "NA",
+			"second_place": "NA",
+			"third_place": "NA"
+		},
+		"FOOTBALL (BOYS)": {
+			"points": [25, 18, 12],
+			"rules": "markdown rules here !!",
+			"first_place": "NA",
+			"second_place": "NA",
+			"third_place": "NA"
+		},
+		"BADMINTON (MIXED)": {
+			"points": [25, 18, 12],
+			"rules": "markdown rules here !!",
+			"first_place": "NA",
+			"second_place": "NA",
+			"third_place": "NA"
+		}
+		
+	},
+
+	"marathon": {
+		"marathon_id": {
+			"rollno": 1,
+			"department": "dept_id",
+			"updated_at": "2017-12-2017 16:30:00"
+		}
+	},
+
+	"feedback": {
+		"id1": {
+			"question": "",
+			"answer-type": "TEXT",
+			"answer-required": true
+		},
+		"id2": {
+			"question": "",
+			"answer-type": "MCQ",
+			"options": ["option 1", "option 2"],
+			"answer-required": false
+		},
+		"id3": {
+			"question": "",
+			"answer-type": "RATING",
+			"min-rating": 0,
+			"max-rating": 10,
+			"answer-required": true
+		},
+		"id4": {
+			"question": "",
+			"answer-type": "CHECKBOX",
+			"options": ["option 1", "option 2"],
+			"answer-required": true
+		}
+	}
+}

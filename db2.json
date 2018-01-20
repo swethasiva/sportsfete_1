@@ -1,0 +1,123 @@
+{
+	"departments": {
+		"CSE": {
+			 "tag" : "cse"
+		},
+		"ECE": {
+			"tag" : "ece"
+					},
+		"EEE": {
+			"tag" : "eee"
+		},
+
+		"CIVIL": {
+			"tag" : "eee"
+		}
+	},
+
+	"events": {
+		
+		"BADMINTON (MIXED)": {
+			"day": 1,
+			"venue": "BADMINTON COURT-1",
+			"fixture": "MATCH-13",
+				"name" :"BADMINTON (MIXED)",
+			"round": "FINALS",
+			"dept1": "CSE",
+			"dept2": "EEE",
+			"start_time": "2017-12-17 16:00:00",
+			"status": "yet-to-start | ongoing | completed",
+			"dept1_score": "N/A",
+			"dept2_score": "N/A",
+			"winner": "CSE"
+		},
+
+		"BADMINTON (BOYS)": {
+			"day": 1,
+			"venue": "BADMINTON COURT-1",
+			"fixture": "MATCH-13",
+			"round": "PRELIMS",
+			"dept1": "CSE",
+			"dept2": "EEE",
+			"start_time": "2017-12-17 16:00:00",
+			"status": "yet-to-start | ongoing | completed",
+			"dept1_score": "N/A",
+			"dept2_score": "N/A",
+			"winner": "EEE"
+		},
+		"FOOTBALL (BOYS)": {
+			"day": 1,
+			"venue": "FOOTBALL COURT-1",
+			"name" : "FOOTBALL (BOYS)",
+			"fixture": "MATCH-13",
+			"round": "FINALS",
+			"dept1": "CSE",
+			"dept2": "CIVIL",
+			"start_time": "2017-12-17 16:00:00",
+			"status": "yet-to-start | ongoing | completed",
+			"dept1_score": "N/A",
+			"dept2_score": "N/A",
+			"winner": "CIVIL"
+		}
+	},
+
+	"sports": {
+		"BADMINTON (BOYS)": {
+			"points": [25, 18, 12],
+			"rules": "markdown rules here !!",
+			"first_place": "NA",
+			"second_place": "NA",
+			"third_place": "NA"
+		},
+		"FOOTBALL (BOYS)": {
+			"points": [25, 18, 12],
+			"rules": "markdown rules here !!",
+			"first_place": "NA",
+			"second_place": "NA",
+			"third_place": "NA"
+		},
+		"BADMINTON (MIXED)": {
+			"points": [25, 18, 12],
+			"rules": "markdown rules here !!",
+			"first_place": "NA",
+			"second_place": "NA",
+			"third_place": "NA"
+		}
+		
+	},
+
+	"marathon": {
+		"marathon_id": {
+			"rollno": 1,
+			"department": "dept_id",
+			"updated_at": "2017-12-2017 16:30:00"
+		}
+	},
+
+	"feedback": {
+		"id1": {
+			"question": "",
+			"answer-type": "TEXT",
+			"answer-required": true
+		},
+		"id2": {
+			"question": "",
+			"answer-type": "MCQ",
+			"options": ["option 1", "option 2"],
+			"answer-required": false
+		},
+		"id3": {
+			"question": "",
+			"answer-type": "RATING",
+			"min-rating": 0,
+			"max-rating": 10,
+			"answer-required": true
+		},
+		"id4": {
+			"question": "",
+			"answer-type": "CHECKBOX",
+			"options": ["option 1", "option 2"],
+			"answer-required": true
+		}
+	}
+}
